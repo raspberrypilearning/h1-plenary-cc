@@ -54,3 +54,9 @@ Click finish when you’re done :)
 
 
 --- /task ---
+
+
+Click on the 'Click me' button to try a new module:
+
+<a href="https://codeclub.org/en/projects-cc">
+<img src="images/Clickme.png">
